@@ -1,4 +1,8 @@
 Welcome to INFO 442 Week 2.
+<<<<<<< HEAD
 Merge conflicts are funny.
+=======
+Merge conflicts are cool
+>>>>>>> main
 Hopefully rebasing can help in collaboration!
 new line
